@@ -1,4 +1,4 @@
-# A sample app to run Node.js app in docker container
+# A sample Node.js app in docker container
 
 This is a simple NodeJs project with docker configuration
 ### PreRequisite:
