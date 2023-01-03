@@ -1,0 +1,27 @@
+{
+  "name": "nodejs_in_docker",
+  "version": "1.0.0",
+  "description": "NodeJs app with docker setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon -L index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProsantaChaki/nodejs_in_docker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ProsantaChaki/nodejs_in_docker/issues"
+  },
+  "homepage": "https://github.com/ProsantaChaki/nodejs_in_docker#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
